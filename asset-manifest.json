@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Personal-Website/static/js/main.6c84bcd5.chunk.js",
+    "main.js.map": "/Personal-Website/static/js/main.6c84bcd5.chunk.js.map",
+    "runtime-main.js": "/Personal-Website/static/js/runtime-main.a04e95f6.js",
+    "runtime-main.js.map": "/Personal-Website/static/js/runtime-main.a04e95f6.js.map",
+    "static/js/2.3d4fae91.chunk.js": "/Personal-Website/static/js/2.3d4fae91.chunk.js",
+    "static/js/2.3d4fae91.chunk.js.map": "/Personal-Website/static/js/2.3d4fae91.chunk.js.map",
+    "index.html": "/Personal-Website/index.html",
+    "precache-manifest.c8437eb7c6d79f4543c95a129101c011.js": "/Personal-Website/precache-manifest.c8437eb7c6d79f4543c95a129101c011.js",
+    "service-worker.js": "/Personal-Website/service-worker.js",
+    "static/js/2.3d4fae91.chunk.js.LICENSE.txt": "/Personal-Website/static/js/2.3d4fae91.chunk.js.LICENSE.txt",
+    "static/media/Headshot.jpg": "/Personal-Website/static/media/Headshot.25960d2a.jpg",
+    "static/media/Iron_Bud_1.PNG": "/Personal-Website/static/media/Iron_Bud_1.55228c95.PNG",
+    "static/media/Iron_Bud_2.PNG": "/Personal-Website/static/media/Iron_Bud_2.443b751f.PNG",
+    "static/media/Iron_Bud_3.PNG": "/Personal-Website/static/media/Iron_Bud_3.23bffeb4.PNG",
+    "static/media/Iron_Bud_4.PNG": "/Personal-Website/static/media/Iron_Bud_4.5423af55.PNG",
+    "static/media/Iron_Bud_5.PNG": "/Personal-Website/static/media/Iron_Bud_5.389c7174.PNG",
+    "static/media/Iron_Bud_6.PNG": "/Personal-Website/static/media/Iron_Bud_6.9ac3eb54.PNG",
+    "static/media/Iron_Bud_7.PNG": "/Personal-Website/static/media/Iron_Bud_7.4d11d65d.PNG",
+    "static/media/Iron_Bud_8.PNG": "/Personal-Website/static/media/Iron_Bud_8.656b5c09.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a04e95f6.js",
+    "static/js/2.3d4fae91.chunk.js",
+    "static/js/main.6c84bcd5.chunk.js"
+  ]
+}
