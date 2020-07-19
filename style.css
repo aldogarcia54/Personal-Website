@@ -1,6 +1,8 @@
+@import url(//fonts.googleapis.com/css?family=Roboto);
+
 body {
     background-color: whitesmoke;
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     padding: 0;
     margin: 0;
 }
